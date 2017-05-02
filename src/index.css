@@ -49,3 +49,6 @@ ol, ul {
   margin-left: 20px;
 }
 
+.highlight {
+  background-color: red;
+}
